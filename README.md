@@ -1,14 +1,14 @@
 json_to_s3
 ============================
 
-Downloads JSON, parses, added inputed value and uploads back
+Downloads JSON, parses, adds inputed value and uploads back
 
 ==================
 
 | Name | Description | 
 | ---- | ----------- | 
 | service_name | The name of Service | 
-| repo_name | The name of Repository name | 
+| repo_name | The name of the Repository | 
 
 Usage
 ==================
